@@ -3,4 +3,4 @@
   "Rime input method for emacs"
   '((emacs "26.3"))
   :url "https://github.com/c0001/emacd-rime"
-  :keywords '("matching"))
+  :keywords '("convenience" "input-method"))
